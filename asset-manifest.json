@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/robo-kitty/static/css/main.894a9917.chunk.css",
+    "main.js": "/robo-kitty/static/js/main.c271ca73.chunk.js",
+    "main.js.map": "/robo-kitty/static/js/main.c271ca73.chunk.js.map",
+    "runtime-main.js": "/robo-kitty/static/js/runtime-main.b81fda2f.js",
+    "runtime-main.js.map": "/robo-kitty/static/js/runtime-main.b81fda2f.js.map",
+    "static/js/2.ba70cc9f.chunk.js": "/robo-kitty/static/js/2.ba70cc9f.chunk.js",
+    "static/js/2.ba70cc9f.chunk.js.map": "/robo-kitty/static/js/2.ba70cc9f.chunk.js.map",
+    "static/js/3.cb616aae.chunk.js": "/robo-kitty/static/js/3.cb616aae.chunk.js",
+    "static/js/3.cb616aae.chunk.js.map": "/robo-kitty/static/js/3.cb616aae.chunk.js.map",
+    "index.html": "/robo-kitty/index.html",
+    "static/css/main.894a9917.chunk.css.map": "/robo-kitty/static/css/main.894a9917.chunk.css.map",
+    "static/js/2.ba70cc9f.chunk.js.LICENSE.txt": "/robo-kitty/static/js/2.ba70cc9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b81fda2f.js",
+    "static/js/2.ba70cc9f.chunk.js",
+    "static/css/main.894a9917.chunk.css",
+    "static/js/main.c271ca73.chunk.js"
+  ]
+}
